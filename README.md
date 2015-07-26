@@ -22,6 +22,7 @@ func main(){
     beego.Run()
 }
 ```
+
 ######Build and run
 ```bash
     go build hello.go
